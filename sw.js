@@ -8,6 +8,7 @@ var appFiles = [
     'index.html',
     'app.js',
     'style.css',
+    'icons/favicon.ico',
     'icons/maskable_icon.png'
 ];
 var icons_paths = [];
